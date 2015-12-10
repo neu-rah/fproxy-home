@@ -1,6 +1,6 @@
 {
   "name": "fproxy-home",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fProxy wrapper with a central list",
   "main": "fproxy-home.js",
   "directories": {
@@ -20,4 +20,7 @@
   ],
   "author": "Rui Azevedo",
   "license": "MIT"
+  "dependencies" : {
+    "fproxy": ">=3.0.0"
+  },
 }
