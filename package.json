@@ -19,8 +19,8 @@
     "central"
   ],
   "author": "Rui Azevedo",
-  "license": "MIT"
+  "license": "MIT",
   "dependencies" : {
     "fproxy": ">=3.0.0"
-  },
+  }
 }
